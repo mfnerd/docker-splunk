@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:bookworm-20240926
 
 ENV SPLUNK_PRODUCT universalforwarder
 ENV SPLUNK_VERSION 7.0.3
