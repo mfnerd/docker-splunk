@@ -1,4 +1,4 @@
-FROM debian:12.11
+FROM debian:bookworm-20250929
 
 ENV SPLUNK_PRODUCT splunk_light
 ENV SPLUNK_VERSION 7.1.2
