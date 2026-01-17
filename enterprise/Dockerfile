@@ -1,4 +1,4 @@
-FROM debian:12.11-slim
+FROM debian:12.13-slim
 
 ENV SPLUNK_PRODUCT splunk
 ENV SPLUNK_VERSION 7.0.3
